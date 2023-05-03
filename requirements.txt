@@ -7,7 +7,7 @@
 aniso8601==3.0.0          # via flask-restful
 click==6.7                # via flask
 flask-restful==0.3.5
-flask==0.12.1
+flask==2.2.5
 itsdangerous==0.24        # via flask
 jinja2==2.10              # via flask
 markupsafe==1.0           # via jinja2
