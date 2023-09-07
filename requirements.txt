@@ -14,5 +14,5 @@ markupsafe==1.0           # via jinja2
 py-zabbix==1.1.0
 pytz==2018.4              # via flask-restful
 six==1.11.0               # via flask-restful
-uwsgi==2.0.15
+uwsgi==2.0.22
 werkzeug==0.14.1          # via flask
